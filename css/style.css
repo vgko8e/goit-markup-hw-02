@@ -1,0 +1,89 @@
+body {
+  background-color: #ffff;
+  color: #757575;
+}
+/* цвет основного текста #212121 */
+/* вторичный цвет текста #757575 */
+/* белый #FFFFFF */
+/* основной акцент #2196F3 */
+/* основной цвет фона #E5E5E5 */
+/* вторичный цвет фона #2F303A */
+
+/* лого сайта */
+.logo-begin {
+  color: #2196f3;
+}
+.logo-end {
+  color: #000000;
+}
+
+.logo-end:hover,
+.logo-end:focus {
+  color: #2196f3;
+}
+
+/* навигация сайта */
+.site-nav a {
+  color: #212121;
+}
+.studio-title {
+  color: #2196f3;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+
+/* контакты сайта */
+.contacts-nav a {
+  color: #757575;
+}
+.mail {
+  color: #2196f3;
+}
+.contacts-nav .link:hover,
+.contacts-nav .link:focus {
+  color: #2196f3;
+}
+
+/* герой */
+.hero {
+  background-color: #2f303a;
+}
+.hero-title {
+  color: #ffff;
+}
+
+/* секция */
+.section-title {
+  color: #212121;
+}
+
+/* команда */
+.team {
+  background-color: #f5f4fa;
+}
+.team-title {
+  color: #212121;
+}
+
+/* подвал */
+.footer {
+  background-color: #2f303a;
+}
+.logofooter-begin {
+  color: #2196f3;
+}
+.logofooter-end {
+  color: #fff;
+}
+.logofooter-end:hover,
+.logofooter-end:focus {
+  color: #2196f3;
+}
+.adress-nav a {
+  color: #fff;
+}
+.adress-nav .link:hover,
+.adress-nav .link:focus {
+  color: #2196f3;
