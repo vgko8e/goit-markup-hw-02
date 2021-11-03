@@ -20,7 +20,7 @@ a {
 }
 
 body {
-  background-color: #ffff;
+  background-color: #fff;
   color: var(--primary-text-color);
   font-family: Roboto;
 }
